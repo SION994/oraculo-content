@@ -1,0 +1,32 @@
+{
+  "Madera": {
+    "hanja": "木",
+    "title": "Madera",
+    "keywords": "Crecimiento · Inicio",
+    "body": "La Madera es la energía del crecimiento. Como un brote que rompe la tierra sin pedir permiso, representa la visión, la planificación y el impulso de comenzar lo nuevo. En el ciclo de los Cinco Elementos, la Madera nace del Agua y da vida al Fuego."
+  },
+  "Fuego": {
+    "hanja": "火",
+    "title": "Fuego",
+    "keywords": "Pasión · Transformación",
+    "body": "El Fuego ilumina y transforma. Representa el carisma, la energía que enciende a quienes están cerca y la fuerza de actuar con determinación. En el ciclo de los Cinco Elementos, el Fuego nace de la Madera y nutre a la Tierra."
+  },
+  "Tierra": {
+    "hanja": "土",
+    "title": "Tierra",
+    "keywords": "Estabilidad · Centro",
+    "body": "La Tierra sostiene todo lo que existe. Simboliza la lealtad, la paciencia y la capacidad de nutrir a quienes la rodean. En el ciclo de los Cinco Elementos, la Tierra nace del Fuego y da vida al Metal, ocupando el centro desde el que los demás se equilibran."
+  },
+  "Metal": {
+    "hanja": "金",
+    "title": "Metal",
+    "keywords": "Claridad · Disciplina",
+    "body": "El Metal corta con precisión y brilla con pureza. Representa la disciplina, la justicia y la fuerza interior para tomar decisiones claras. En el ciclo de los Cinco Elementos, el Metal nace de la Tierra y da vida al Agua."
+  },
+  "Agua": {
+    "hanja": "水",
+    "title": "Agua",
+    "keywords": "Intuición · Sabiduría",
+    "body": "El Agua fluye y se adapta a cualquier forma sin perder su esencia. Simboliza la intuición profunda, la sabiduría acumulada y la capacidad de encontrar caminos donde otros solo ven obstáculos. En el ciclo de los Cinco Elementos, el Agua nace del Metal y nutre a la Madera."
+  }
+}

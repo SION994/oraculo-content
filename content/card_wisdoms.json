@@ -1,0 +1,51 @@
+{
+  "aliado_luna":    "La semejanza no espera ser declarada para actuar.",
+  "aliado_estrella":"Lo semejante llama a lo semejante aunque esté todavía lejos.",
+  "aliado_sol":     "Lo que se reconoce de inmediato no requiere presentación.",
+  "aliado_mundo":   "El ciclo que termina entre iguales no deja deudas pendientes.",
+
+  "impulso_luna":    "Debajo de lo que parece quieto, algo ya empuja.",
+  "impulso_estrella":"Lo que viene a presionar también viene a despertar.",
+  "impulso_sol":     "No toda incomodidad visible es señal de error.",
+  "impulso_mundo":   "La tensión que cumplió su parte siempre deja algo más afilado.",
+
+  "flujo_luna":    "La expresión que no salió todavía también tiene su ritmo propio.",
+  "flujo_estrella":"El don que llega no fue convocado: reconoció el terreno.",
+  "flujo_sol":     "Lo que surge solo no necesita ser empujado.",
+  "flujo_mundo":   "Lo dado del todo ya está completo.",
+
+  "chispa_luna":    "La ruptura se prepara antes de mostrarse.",
+  "chispa_estrella":"Lo que viene desde afuera del plan también lleva su lógica.",
+  "chispa_sol":     "El camino alternativo ya está a la vista; queda decidirlo.",
+  "chispa_mundo":   "El desvío que llegó a algún lugar ya trazó su propio camino.",
+
+  "fortuna_luna":    "La oportunidad que no se anuncia ya está en movimiento.",
+  "fortuna_estrella":"Lo inesperado que viene tiene su propio horario.",
+  "fortuna_sol":     "El momento ya está; lo que queda es no perderlo.",
+  "fortuna_mundo":   "Lo que llegó sin ser llamado ya cumplió su recorrido.",
+
+  "orden_luna":    "El método trabaja aunque nadie lo esté mirando.",
+  "orden_estrella":"Lo que llega despacio llega completo.",
+  "orden_sol":     "El resultado del método reconoce al método.",
+  "orden_mundo":   "El ciclo metódico que cierra no deja cabos sueltos.",
+
+  "presion_luna":    "Lo que aún no se muestra ya está poniendo condiciones.",
+  "presion_estrella":"La presión que llega desde afuera también viene con un destino.",
+  "presion_sol":     "La exigencia clara es más honesta que la ambigua.",
+  "presion_mundo":   "Lo que resistió la exigencia ya sabe lo que vale.",
+
+  "virtud_luna":    "La estructura invisible suele ser la más firme.",
+  "virtud_estrella":"Lo que fue hecho bien se reconoce, aunque tarde.",
+  "virtud_sol":     "La precisión que sostiene no pide ser notada.",
+  "virtud_mundo":   "El papel cumplido exactamente ya está libre.",
+
+  "misterio_luna":    "El proceso que no ha aflorado también tiene su trabajo.",
+  "misterio_estrella":"La comprensión que viene desde lejos llega ya transformada.",
+  "misterio_sol":     "Lo que fue intuido no necesita explicar cómo lo supo.",
+  "misterio_mundo":   "Lo comprendido en la distancia ya encontró su lugar.",
+
+  "sabiduria_luna":    "Lo que alimenta sin presentarse no espera reconocimiento.",
+  "sabiduria_estrella":"Lo que viene también trae una comprensión nueva.",
+  "sabiduria_sol":     "El conocimiento acumulado no necesita ser buscado hoy: ya está.",
+  "sabiduria_mundo":   "El saber ganado en el recorrido ya es propio."
+}

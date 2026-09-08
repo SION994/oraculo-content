@@ -1,0 +1,26 @@
+{
+  "year": {
+    "hanja": "年",
+    "title": "Año",
+    "domain": "Ancestros · Entorno",
+    "body": "El pilar del Año refleja el mundo en el que naciste: tus raíces familiares, la herencia cultural y el entorno que llevas sin haberlo elegido. Define el punto de partida de tu camino — la tierra en la que tu destino fue plantado."
+  },
+  "month": {
+    "hanja": "月",
+    "title": "Mes",
+    "domain": "Padres · Sociedad",
+    "body": "El pilar del Mes describe tu relación con el entorno social: la familia que te formó, el trabajo que construiste y cómo te perciben quienes te rodean. Es la energía que proyectas al mundo antes de que la gente te conozca a fondo."
+  },
+  "day": {
+    "hanja": "日",
+    "title": "Día",
+    "domain": "Tú mismo · Pareja",
+    "body": "El pilar del Día es el más importante de los cuatro. Su tronco celeste es tu elemento personal — el que define tu esencia y tu forma de navegar la vida. La rama terrestre revela la energía que llevas en tus relaciones de pareja."
+  },
+  "hour": {
+    "hanja": "時",
+    "title": "Hora",
+    "domain": "Hijos · Legado",
+    "body": "El pilar de la Hora refleja lo que se construye con el tiempo: tus hijos, los frutos de tu esfuerzo y los deseos más profundos que guardas para ti. Es la energía de lo que se acumula y permanece."
+  }
+}

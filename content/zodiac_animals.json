@@ -1,0 +1,86 @@
+[
+  {
+    "branch": "子",
+    "animal": "Rata",
+    "element": "Agua",
+    "keyword": "Ingenio",
+    "body": "La Rata observa antes de actuar y rara vez improvisa sin razón. Su energía de Agua fluye donde otros no llegarían: encuentra recursos, conexiones y salidas en los momentos en que todo parece cerrado. Las situaciones que exigen rapidez mental son su terreno natural."
+  },
+  {
+    "branch": "丑",
+    "animal": "Buey",
+    "element": "Tierra",
+    "keyword": "Constancia",
+    "body": "Lo que construye el Buey se sostiene porque está hecho con paciencia, no con prisa. La Tierra de su naturaleza le da una firmeza que inspira confianza en quienes trabajan a su lado. Vale más en relaciones de largo recorrido que en los encuentros que duran un instante."
+  },
+  {
+    "branch": "寅",
+    "animal": "Tigre",
+    "element": "Madera",
+    "keyword": "Coraje",
+    "body": "El Tigre actúa desde una convicción que no necesita pedir permiso. Su energía de Madera empuja hacia adelante con la misma fuerza con que un árbol rompe el suelo: crece porque no puede hacer otra cosa. En momentos de crisis, su presencia reorganiza el ambiente."
+  },
+  {
+    "branch": "卯",
+    "animal": "Conejo",
+    "element": "Madera",
+    "keyword": "Tacto",
+    "body": "El Conejo percibe lo que no se dice y sabe cómo acercarse sin generar resistencia. La Madera de su signo le da flexibilidad: dobla sin romperse y encuentra el ángulo preciso en cada situación. En entornos tensos, su manera de moverse reduce la fricción antes de que escale."
+  },
+  {
+    "branch": "辰",
+    "animal": "Dragón",
+    "element": "Tierra",
+    "keyword": "Visión",
+    "body": "El Dragón piensa en escalas que otros todavía no consideran. Su base de Tierra le da la solidez suficiente para que sus proyectos no queden solo en idea: los aterriza. Funciona mejor cuando tiene libertad para definir el rumbo y personas capaces a su alrededor."
+  },
+  {
+    "branch": "巳",
+    "animal": "Serpiente",
+    "element": "Fuego",
+    "keyword": "Profundidad",
+    "body": "La Serpiente no revela todo lo que sabe, y esa discreción es una forma de inteligencia. El Fuego interior de su signo arde con calma, sin llamaradas: calienta el ambiente sin quemarlo. Sus mejores contribuciones suelen aparecer cuando ya tiene una comprensión completa del terreno."
+  },
+  {
+    "branch": "午",
+    "animal": "Caballo",
+    "element": "Fuego",
+    "keyword": "Impulso",
+    "body": "El Caballo necesita movimiento para estar bien: cuando se detiene demasiado, pierde claridad. Su Fuego se expresa en la acción directa, en la capacidad de entrar en marcha cuando otros aún deliberan. Atrae a quienes buscan energía en lugar de explicaciones."
+  },
+  {
+    "branch": "未",
+    "animal": "Cabra",
+    "element": "Tierra",
+    "keyword": "Sensibilidad",
+    "body": "La Cabra tiene una capacidad poco común para leer el estado emocional de los demás. Anclada en Tierra, convierte esa sensibilidad en algo concreto: cuidado, atención al detalle, presencia real. En ambientes donde se valora la calidad humana por encima de la velocidad, encuentra su mejor forma."
+  },
+  {
+    "branch": "申",
+    "animal": "Mono",
+    "element": "Metal",
+    "keyword": "Adaptación",
+    "body": "El Mono resuelve problemas con una agilidad que combina intuición y lógica al mismo tiempo. El Metal de su signo afila esa capacidad: corta directamente al centro de lo que importa sin rodeos innecesarios. Se mueve bien en entornos cambiantes porque el cambio no lo desestabiliza."
+  },
+  {
+    "branch": "酉",
+    "animal": "Gallo",
+    "element": "Metal",
+    "keyword": "Precisión",
+    "body": "Pocos detalles se le escapan al Gallo: su mirada detecta lo que a otros resulta invisible. El Metal de su signo afila esa capacidad y la convierte en exactitud práctica: prefiere hacerlo bien una vez que corregirlo dos. En espacios donde el orden importa, su presencia marca una diferencia visible."
+  },
+  {
+    "branch": "戌",
+    "animal": "Perro",
+    "element": "Tierra",
+    "keyword": "Lealtad",
+    "body": "El Perro distingue con rapidez quién merece confianza y quién no, y ese juicio rara vez falla. La Tierra que lo sostiene convierte esa lealtad en algo duradero: no abandona cuando la situación se complica. Es el signo que otros buscan en los momentos en que más importa estar."
+  },
+  {
+    "branch": "亥",
+    "animal": "Cerdo",
+    "element": "Agua",
+    "keyword": "Generosidad",
+    "body": "El Cerdo entrega sin calcular lo que recibirá a cambio, y eso genera vínculos de una profundidad difícil de imitar. El Agua de su naturaleza da a esa generosidad una forma fluida: se adapta, no impone. En relaciones donde se busca calidez sin condiciones, es el compañero más natural."
+  }
+]

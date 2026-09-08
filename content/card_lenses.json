@@ -1,0 +1,291 @@
+[
+  {
+    "id": "aliado_luna",
+    "shiShen": "비견",
+    "shiShenEs": "Aliado",
+    "cardVariant": "luna",
+    "body": "Lo que se mueve en paralelo a ti todavía no tomó forma visible. La luna de hoy ilumina un perfil que no habías registrado."
+  },
+  {
+    "id": "aliado_estrella",
+    "shiShen": "비견",
+    "shiShenEs": "Aliado",
+    "cardVariant": "estrella",
+    "body": "La energía que se acerca desde afuera lleva el mismo signo que la tuya. Una afinidad todavía no declarada está en camino."
+  },
+  {
+    "id": "aliado_sol",
+    "shiShen": "비견",
+    "shiShenEs": "Aliado",
+    "cardVariant": "sol",
+    "body": "La persona o situación que está a tu nivel ya está aquí, presente y sin rodeos. No hace falta buscar más lejos de lo que tienes enfrente."
+  },
+  {
+    "id": "aliado_mundo",
+    "shiShen": "비견",
+    "shiShenEs": "Aliado",
+    "cardVariant": "mundo",
+    "body": "Un equilibrio que llevaba tiempo formándose llega hoy a su punto. El ciclo de lo compartido encuentra su cierre natural."
+  },
+
+  {
+    "id": "impulso_luna",
+    "shiShen": "겁재",
+    "shiShenEs": "Impulso",
+    "cardVariant": "luna",
+    "body": "Hay una presión que todavía no mostró su cara completa. Algo se acumula por debajo antes de irrumpir."
+  },
+  {
+    "id": "impulso_estrella",
+    "shiShen": "겁재",
+    "shiShenEs": "Impulso",
+    "cardVariant": "estrella",
+    "body": "Algo con una energía distinta a la tuya todavía no llegó del todo. La estrella de hoy señala el encuentro que viene, no su resultado."
+  },
+  {
+    "id": "impulso_sol",
+    "shiShen": "겁재",
+    "shiShenEs": "Impulso",
+    "cardVariant": "sol",
+    "body": "La tensión ya está en la superficie. Lo que te mueve hoy no se esconde: está presente y pide una respuesta concreta."
+  },
+  {
+    "id": "impulso_mundo",
+    "shiShen": "겁재",
+    "shiShenEs": "Impulso",
+    "cardVariant": "mundo",
+    "body": "Lo que te agitó ya cumplió su función. El ciclo de la presión llega hoy a su punto de cierre, haya sido cómodo o no."
+  },
+
+  {
+    "id": "flujo_luna",
+    "shiShen": "식신",
+    "shiShenEs": "Flujo",
+    "cardVariant": "luna",
+    "body": "Hay algo que quiere emerger pero todavía no encontró su cauce. La posibilidad de expresión opera silenciosamente, esperando el momento."
+  },
+  {
+    "id": "flujo_estrella",
+    "shiShen": "식신",
+    "shiShenEs": "Flujo",
+    "cardVariant": "estrella",
+    "body": "Lo que hoy puede florecer no ha llegado del todo todavía. Una posibilidad de abundancia viene desde afuera, despacio."
+  },
+  {
+    "id": "flujo_sol",
+    "shiShen": "식신",
+    "shiShenEs": "Flujo",
+    "cardVariant": "sol",
+    "body": "El flujo ya está activo y visible. Lo que tienes para dar hoy no necesita ser convocado: ya está saliendo."
+  },
+  {
+    "id": "flujo_mundo",
+    "shiShen": "식신",
+    "shiShenEs": "Flujo",
+    "cardVariant": "mundo",
+    "body": "Lo que tenías para dar ya fue dado. El ciclo de la expresión cierra hoy, y lo que permanece es lo que resistió el tiempo."
+  },
+
+  {
+    "id": "chispa_luna",
+    "shiShen": "상관",
+    "shiShenEs": "Chispa",
+    "cardVariant": "luna",
+    "body": "Hay un impulso de ruptura que todavía no encontró donde prender. Algo se prepara en el fondo antes de salir."
+  },
+  {
+    "id": "chispa_estrella",
+    "shiShen": "상관",
+    "shiShenEs": "Chispa",
+    "cardVariant": "estrella",
+    "body": "La posibilidad de moverse en una dirección nueva viene desde afuera, desde algo que todavía no está del todo a la vista."
+  },
+  {
+    "id": "chispa_sol",
+    "shiShen": "상관",
+    "shiShenEs": "Chispa",
+    "cardVariant": "sol",
+    "body": "Lo que se movió ya está a la vista. La energía de hoy no espera ni se disimula: ya está actuando."
+  },
+  {
+    "id": "chispa_mundo",
+    "shiShen": "상관",
+    "shiShenEs": "Chispa",
+    "cardVariant": "mundo",
+    "body": "El quiebre ya ocurrió. Lo que se salió del patrón no va a volver, y ese ciclo se cierra hoy."
+  },
+
+  {
+    "id": "fortuna_luna",
+    "shiShen": "편재",
+    "shiShenEs": "Fortuna",
+    "cardVariant": "luna",
+    "body": "Hay un movimiento de recursos que todavía no es visible desde donde estás. Algo circula por debajo, sin nombre todavía."
+  },
+  {
+    "id": "fortuna_estrella",
+    "shiShen": "편재",
+    "shiShenEs": "Fortuna",
+    "cardVariant": "estrella",
+    "body": "La estrella que lleva tiempo moviéndose en tu dirección todavía no ha llegado, pero su trayectoria ya es real."
+  },
+  {
+    "id": "fortuna_sol",
+    "shiShen": "편재",
+    "shiShenEs": "Fortuna",
+    "cardVariant": "sol",
+    "body": "Lo que se presenta hoy ya está aquí, sin anunciarse. No es algo que vas a buscar: ya apareció."
+  },
+  {
+    "id": "fortuna_mundo",
+    "shiShen": "편재",
+    "shiShenEs": "Fortuna",
+    "cardVariant": "mundo",
+    "body": "Lo que llegó sin ser convocado ya cumplió su recorrido. El ciclo de lo inesperado encuentra hoy su cierre."
+  },
+
+  {
+    "id": "orden_luna",
+    "shiShen": "정재",
+    "shiShenEs": "Orden",
+    "cardVariant": "luna",
+    "body": "Hay un orden que opera sin hacerse notar. Algo se consolida por debajo de la superficie antes de volverse visible."
+  },
+  {
+    "id": "orden_estrella",
+    "shiShen": "정재",
+    "shiShenEs": "Orden",
+    "cardVariant": "estrella",
+    "body": "Lo que viene llega despacio y desde lejos, pero la dirección es clara. La paciencia de hoy tiene un destino concreto."
+  },
+  {
+    "id": "orden_sol",
+    "shiShen": "정재",
+    "shiShenEs": "Orden",
+    "cardVariant": "sol",
+    "body": "Lo que se ha construido con constancia ya es visible hoy. El método encuentra aquí su resultado concreto."
+  },
+  {
+    "id": "orden_mundo",
+    "shiShen": "정재",
+    "shiShenEs": "Orden",
+    "cardVariant": "mundo",
+    "body": "El esfuerzo acumulado llega a su punto. El ciclo de lo metódico cierra con lo que ya se cosechó."
+  },
+
+  {
+    "id": "presion_luna",
+    "shiShen": "편관",
+    "shiShenEs": "Presión",
+    "cardVariant": "luna",
+    "body": "Hay una fuerza que todavía no se ha definido del todo. Lo que viene a exigirte no tiene cara todavía, pero ya se siente en el peso del día."
+  },
+  {
+    "id": "presion_estrella",
+    "shiShen": "편관",
+    "shiShenEs": "Presión",
+    "cardVariant": "estrella",
+    "body": "Más allá de la exigencia de hoy hay una dirección que todavía no se ve del todo. Lo que resiste puede estar señalando algo."
+  },
+  {
+    "id": "presion_sol",
+    "shiShen": "편관",
+    "shiShenEs": "Presión",
+    "cardVariant": "sol",
+    "body": "El sol de hoy no deja sombras sobre lo que se te pide. La exigencia ya está aquí, clara y sin ambigüedad."
+  },
+  {
+    "id": "presion_mundo",
+    "shiShen": "편관",
+    "shiShenEs": "Presión",
+    "cardVariant": "mundo",
+    "body": "La presión que cargaste ya cumplió su parte. Lo que fue exigido fue respondido: el ciclo se cierra hoy."
+  },
+
+  {
+    "id": "virtud_luna",
+    "shiShen": "정관",
+    "shiShenEs": "Virtud",
+    "cardVariant": "luna",
+    "body": "Hay un reconocimiento que todavía no llegó. Algo que has sostenido bien opera por debajo, sin que nadie lo haya nombrado aún."
+  },
+  {
+    "id": "virtud_estrella",
+    "shiShen": "정관",
+    "shiShenEs": "Virtud",
+    "cardVariant": "estrella",
+    "body": "Una validación viene desde afuera, desde un ángulo que todavía no controlas. El movimiento ya empezó, aunque no lo veas."
+  },
+  {
+    "id": "virtud_sol",
+    "shiShen": "정관",
+    "shiShenEs": "Virtud",
+    "cardVariant": "sol",
+    "body": "Tu lugar en esto ya es visible. Lo que se espera de ti hoy está claro, sin necesidad de interpretación adicional."
+  },
+  {
+    "id": "virtud_mundo",
+    "shiShen": "정관",
+    "shiShenEs": "Virtud",
+    "cardVariant": "mundo",
+    "body": "El ciclo de responsabilidad cierra hoy. Lo que fue tuyo ya está cumplido: el papel no necesita repetirse."
+  },
+
+  {
+    "id": "misterio_luna",
+    "shiShen": "편인",
+    "shiShenEs": "Misterio",
+    "cardVariant": "luna",
+    "body": "Hay algo que se esconde incluso de tu propio ojo. Una capa más abajo de lo que ya percibes."
+  },
+  {
+    "id": "misterio_estrella",
+    "shiShen": "편인",
+    "shiShenEs": "Misterio",
+    "cardVariant": "estrella",
+    "body": "Una comprensión viene desde lejos, todavía sin forma precisa. Lo que intuyes hoy puede ser el primer indicio de algo mayor."
+  },
+  {
+    "id": "misterio_sol",
+    "shiShen": "편인",
+    "shiShenEs": "Misterio",
+    "cardVariant": "sol",
+    "body": "Lo que intuías ya tiene confirmación hoy. La comprensión que estaba en el fondo salió a la superficie."
+  },
+  {
+    "id": "misterio_mundo",
+    "shiShen": "편인",
+    "shiShenEs": "Misterio",
+    "cardVariant": "mundo",
+    "body": "El ciclo de comprensión llega a su punto. Lo que entendiste en el proceso ya está integrado: no va a cambiar."
+  },
+
+  {
+    "id": "sabiduria_luna",
+    "shiShen": "정인",
+    "shiShenEs": "Sabiduría",
+    "cardVariant": "luna",
+    "body": "Hay un sustento que opera sin que lo hayas pedido. Algo te sostiene por debajo, silencioso y constante, antes de hacerse notar."
+  },
+  {
+    "id": "sabiduria_estrella",
+    "shiShen": "정인",
+    "shiShenEs": "Sabiduría",
+    "cardVariant": "estrella",
+    "body": "Algo que todavía no ha llegado trae consigo una enseñanza. La posibilidad de hoy incluye también una comprensión nueva."
+  },
+  {
+    "id": "sabiduria_sol",
+    "shiShen": "정인",
+    "shiShenEs": "Sabiduría",
+    "cardVariant": "sol",
+    "body": "Lo que sabes ya es suficiente para hoy. La comprensión que llevas contigo es la herramienta que ya tienes."
+  },
+  {
+    "id": "sabiduria_mundo",
+    "shiShen": "정인",
+    "shiShenEs": "Sabiduría",
+    "cardVariant": "mundo",
+    "body": "El mundo de hoy cierra el ciclo de lo aprendido. Lo que fue comprendido en el camino ya está en su lugar, sin necesitar revisión."
+  }
+]
